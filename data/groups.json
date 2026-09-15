@@ -1,17 +1,17 @@
 [
   {
-    "id": "embedded-iot-hardware-hub-discord-20260915-1",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
+    "id": "embedded-iot-hardware-hub-reddit-20260915-1",
+    "title": "r/embedded Systems & Firmware Engineers",
+    "platform": "Reddit",
+    "category": "Embedded Systems",
+    "memberCount": "185,000+ members",
+    "description": "Professional forum for firmware engineers, RTOS developers, ARM Cortex architecture, PCB bring-up, and low-level C/C++ drivers.",
+    "joinUrl": "https://www.reddit.com/r/embedded/",
     "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
+      "embedded",
+      "iot",
+      "firmware",
+      "reddit"
     ],
     "verified": true,
     "featured": true,
