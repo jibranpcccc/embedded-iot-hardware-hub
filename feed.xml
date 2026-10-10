@@ -4,10 +4,17 @@
     <title>Embedded Systems &amp; IoT Hardware Hub</title>
     <link>https://jibranpcccc.github.io/embedded-iot-hardware-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:05:15 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/embedded-iot-hardware-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
+      <link>https://discuss.kubernetes.io</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/embedded-iot-hardware-hub/#embedded-iot-hardware-hub-discord-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:05:15 GMT</pubDate>
+      <description>Newly verified community added to Embedded Systems &amp; IoT Hardware Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
       <link>https://www.reddit.com/r/aws/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/embedded-iot-hardware-hub/#embedded-iot-hardware-hub-reddit-20261009-1-2026-10-09</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/embedded-iot-hardware-hub/#embedded-iot-hardware-hub-forum-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:32:20 GMT</pubDate>
       <description>Newly verified community added to Embedded Systems &amp; IoT Hardware Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>Embedded Systems &amp; IoT Hardware Hub Initial Release</title>
-      <link>https://jibranpcccc.github.io/embedded-iot-hardware-hub/</link>
-      <pubDate>Sun, 13 Sep 2026 08:22:46 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
